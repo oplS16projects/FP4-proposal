@@ -30,7 +30,11 @@ Instructions:
 3. Everyone on the team contributes their sections to your `README.md` file.
   * Use GitHub's collaboration features to make sure that each team member contributes meaningful content to the file
   * At the absolute minimum, respective team members must have commits that show they have authored the section describing their planned contributions
-4. Send Fred/Mark the link to your new repository (exactly how TBD)
+4. Create a [github Release](https://help.github.com/articles/creating-releases/
+) of your repository. 
+ * Version: v0.0
+ * Title: Proposal
+ * Description: tag `@fgmart` or `@marksherman` depending on your section
 
 And now some detail on what to write _in_ the report.
 
